@@ -1,0 +1,6 @@
+{
+  "name": "GRIDMESH",
+  "description": "AI-optimized peer-to-peer solar energy trading platform for Nigerian neighborhoods. Trade surplus solar power, predict demand with AI, and visualize the local grid map.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI-driven demand forecasting", "Real-time energy trading", "Interactive neighborhood grid map"]
+}
